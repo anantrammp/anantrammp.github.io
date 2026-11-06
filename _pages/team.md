@@ -9,6 +9,8 @@ page_kind: team
 
 <figure class="group-photo"><a href="/images/10d096fb-Mt.-Ranier-GROUP-PHOTO.jpg"><img src="/images/10d096fb-Mt.-Ranier-GROUP-PHOTO.jpg" alt="Mt. Ranier GROUP PHOTO" width="1920" height="1440" loading="lazy" decoding="async"></a></figure>
 
+<section class="team-member" markdown="1">
+
 <figure class="portrait"><a href="/images/a8d8cf96-Anant-Photo-2024-08-28.jpg"><img src="/images/a8d8cf96-Anant-Photo-2024-08-28.jpg" alt="M. P. Anantram (Anant)" width="1920" height="1870" loading="lazy" decoding="async"></a></figure>
 
 ### M. P. Anantram (Anant)
@@ -17,7 +19,11 @@ M. P. Anantram (Anant) is a Professor of Electrical Engineering, and an Adjun
 
 LinkedIn: [(Anant) M. P. Anantram - University of Washington, Seattle](https://www.linkedin.com/in/anant-m-p-anantram-5451599)
 
+</section>
+
 ## Post-doctoral Fellows
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/bfb60556-UW-Website-Theme-Update.jpg"><img src="/images/bfb60556-UW-Website-Theme-Update.jpg" alt="William Livernois" width="1920" height="1446" loading="lazy" decoding="async"></a></figure>
 
@@ -30,6 +36,10 @@ Email: [willll@uw.edu](mailto:willll@uw.edu)
 LinkedIn: <https://www.linkedin.com/in/willlivernois>
 
 GitHub: <https://github.com/wliverno>
+
+</section>
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/ddb91d8d-IMG_20240110_141045-1.jpg"><img src="/images/ddb91d8d-IMG_20240110_141045-1.jpg" alt="Sandip Mandal" width="1066" height="1266" loading="lazy" decoding="async"></a></figure>
 
@@ -47,7 +57,11 @@ Google Scholar: <https://scholar.google.com/citations?hl=en&user=C3fn3SQAAAAJ>
 
 ResearchGate: <https://www.researchgate.net/profile/Sandip-Mandal-5>
 
+</section>
+
 ## PhD Students
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/8a199b48-WhatsApp-Image-2024-10-03-at-14.33.11_efdd5b5f.jpg"><img src="/images/8a199b48-WhatsApp-Image-2024-10-03-at-14.33.11_efdd5b5f.jpg" alt="Arpan De" width="1200" height="1600" loading="lazy" decoding="async"></a></figure>
 
@@ -55,17 +69,29 @@ ResearchGate: <https://www.researchgate.net/profile/Sandip-Mandal-5>
 
 Arpan De has always had a deep interest in physics, but he also obtained a BS in electrical engineering degree from Jadavpur University. He works on both the physics and invention of memory devices as part of our group.
 
+</section>
+
+<section class="team-member" markdown="1">
+
 <figure class="portrait"><a href="/images/3f80ffde-unnamed-1.jpg"><img src="/images/3f80ffde-unnamed-1.jpg" alt="Olayian Alolayian" width="204" height="198" loading="lazy" decoding="async"></a></figure>
 
 ### Olayian Alolayian
 
 After a BS and MS in electrical engineering from Saudi Arabia and the USA respectively, Olayian Alolayian worked in the industry for a few years. He is leading the effort in molecular dynamics (MD) simulations and studies a variety of phenomena using these simulations.
 
+</section>
+
+<section class="team-member" markdown="1">
+
 <figure class="portrait"><a href="/images/2b5441ab-unnamed-e1726808405624.jpg"><img src="/images/2b5441ab-unnamed-e1726808405624.jpg" alt="Shiang-Bing Chiu" width="328" height="316" loading="lazy" decoding="async"></a></figure>
 
 ### Shiang-Bing Chiu
 
 Shiang-Bin Chiu has a BS in electrical engineering and MS in physics. In our group, he works on topologically engineered DNA nanostructures and plans to work on decoherence models in future.
+
+</section>
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/8a6aa706-UW-Website-Theme-Update-2.jpg"><img src="/images/8a6aa706-UW-Website-Theme-Update-2.jpg" alt="Simon Cao" width="256" height="256" loading="lazy" decoding="async"></a></figure>
 
@@ -79,13 +105,21 @@ Room: EEB 253D
 
 LinkedIn: [https://www.linkedin.com/in/simoncaouw](https://www.linkedin.com/in/simoncaouw/)
 
+</section>
+
+<section class="team-member" markdown="1">
+
 <figure class="portrait"><a href="/images/4d263186-linkedinpic.jpg"><img src="/images/4d263186-linkedinpic.jpg" alt="Galina Petrova" width="540" height="540" loading="lazy" decoding="async"></a></figure>
 
 ### Galina Petrova
 
 Galina Petrova is a PhD student who joined in 2025. Her research focuses on charge transport in DNA, with a strong interest in quantum chemistry and molecular orbitals. In her free time, she enjoys solving Sudoku puzzles.​
 
+</section>
+
 ## MS Students
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/b487cf28-Ting-Cheng-Tuan.jpg"><img src="/images/b487cf28-Ting-Cheng-Tuan.jpg" alt="Ting-Cheng Tuan" width="1181" height="1181" loading="lazy" decoding="async"></a></figure>
 
@@ -93,7 +127,11 @@ Galina Petrova is a PhD student who joined in 2025. Her research focuses on char
 
 Ting-Cheng Tuan is an M.S. student in Electrical and Computer Engineering at the University of Washington. His research focuses on molecular dynamics simulations of metal-mediated DNA base pairs, particularly C–Ag⁺–C systems, to investigate their structural and thermal stability. His research interests include computational modeling, molecular simulation, and metal–DNA interactions.
 
+</section>
+
 ## Undergrad Students
+
+<section class="team-member" markdown="1">
 
 <figure class="portrait"><a href="/images/81615061-IMG_2022.jpg"><img src="/images/81615061-IMG_2022.jpg" alt="Keya Joy" width="893" height="1195" loading="lazy" decoding="async"></a></figure>
 
@@ -103,6 +141,10 @@ Keya A. Joy is a junior double-majoring in Electrical & Computer Engineering, an
 
 Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
 
+</section>
+
+<section class="team-member" markdown="1">
+
 <figure class="portrait"><a href="/images/7c795cd0-hyuan.jpg"><img src="/images/7c795cd0-hyuan.jpg" alt="Hailey Yuan" width="643" height="923" loading="lazy" decoding="async"></a></figure>
 
 ### Hailey Yuan
@@ -110,3 +152,5 @@ Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
 Hailey is a junior majoring in Electrical and Computer Engineering. Her research focuses on developing a graph-based framework that identifies dominant charge transport pathways in synthetic biological materials. In her free time, she enjoys eating, baking, and playing volleyball.
 
 Email: hyuan8@uw.edu
+
+</section>
