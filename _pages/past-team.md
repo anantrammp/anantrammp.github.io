@@ -3,6 +3,7 @@ layout: lab
 title: Past Members
 permalink: /team/past-team/
 page_kind: past-team
+show_past_high_school_interns: false
 ---
 
 ## Past Post-Doctoral Fellows
@@ -70,6 +71,8 @@ LinkedIn: <https://www.linkedin.com/in/sara-kumar1/>
 Email: [sshaik@uw.edu](mailto:sshaik@uw.edu)
 
 LinkedIn: <https://www.linkedin.com/in/sachal-shaikh>
+
+{% if page.show_past_high_school_interns %}
 
 ## Past High School Interns
 
@@ -206,3 +209,5 @@ This past summer, I had the opportunity to work with Professor Anantram’s Team
 2015:
 
 - Hemil Gajjar
+
+{% endif %}

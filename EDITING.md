@@ -57,6 +57,10 @@ A paragraph of ordinary text.
 
 For team members, copy an existing photograph, heading, and biography block, then replace the name, text, and image filename. Some images use a short HTML block to preserve the portrait layout; copy the existing block and change only its paths and `alt` description.
 
+## Show or hide past high school interns
+
+The high school intern biographies and the "Other Past High School Interns" list are saved in `_pages/past-team.md`. They are currently hidden from the webpage. To show them again, change `show_past_high_school_interns: false` to `show_past_high_school_interns: true` near the top of that file and commit the change. Set it back to `false` to hide them again.
+
 ## Replace or add a photograph
 
 Upload the original to [`images`](https://github.com/anantrammp/anantrammp.github.io/tree/main/images), then update its path in the relevant page. Prefer a new descriptive filename so you can easily reverse the change. For scientific plots, use an original SVG or a large PNG where possible. Preserve the original PDF for downloadable figures and papers.
