@@ -17,6 +17,6 @@ Background in topological materials / biomolecular simulation / quantum transpor
 
 ### Undergraduate students
 
-Apply with a copy of your transcript, CV and cover letter. We usually take students for EE 499 credit. Send an e-mail to William Livernois, willll@uw.edu.
+Apply with a copy of your transcript, CV and cover letter. We usually take students for EE 499 credit. Send an e-mail to Arpan De, arpan99@uw.edu.
 
 Women and minorities are encouraged to apply for all positions.
