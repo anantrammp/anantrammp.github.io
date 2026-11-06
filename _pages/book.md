@@ -5,9 +5,7 @@ permalink: /book/
 page_kind: book
 ---
 
-[et\_pb\_section fb\_built="1" admin\_label="section" \_builder\_version="4.16" custom\_padding="||30px|||" global\_colors\_info="{}"][et\_pb\_row admin\_label="row" \_builder\_version="4.16" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" custom\_padding="||9px|||" global\_colors\_info="{}"][et\_pb\_column type="4\_4" \_builder\_version="4.16" custom\_padding="|||" global\_colors\_info="{}" custom\_padding\_\_hover="|||"][et\_pb\_text admin\_label="Text" \_builder\_version="4.16" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" global\_colors\_info="{}"]
-
-![](/images/e389de21-13356-cover.jpg)
+![Cover of Quantum Mechanics for Engineers and Material Scientists: An Introduction](/images/e389de21-13356-cover.jpg)
 
 Quantum Mechanics for Engineers and Material Scientists: An Introduction
 
@@ -17,12 +15,10 @@ This book is an introductory text aimed at students of engineering and material 
 
 ---
 
-[/et\_pb\_text][/et\_pb\_column][/et\_pb\_row][/et\_pb\_section][et\_pb\_section fb\_built="1" \_builder\_version="4.27.4" \_module\_preset="default" custom\_padding="17px|||||" global\_colors\_info="{}"][et\_pb\_row \_builder\_version="4.27.0" \_module\_preset="default" min\_height="53px" custom\_padding="16px||21px|||" global\_colors\_info="{}"][et\_pb\_column type="4\_4" \_builder\_version="4.27.0" \_module\_preset="default" global\_colors\_info="{}"][et\_pb\_heading title="Accompanying Material" \_builder\_version="4.27.0" \_module\_preset="default" title\_font="|800|||||||" title\_text\_color="#5a33b0" title\_font\_size="33px" background\_color="#FFFFFF" global\_colors\_info="{}"][/et\_pb\_heading][et\_pb\_text \_builder\_version="4.27.4" \_module\_preset="default" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"]
+## Accompanying Material
 
 Most chapters have accompanying Powerpoint slides available. Some chapters have accompanying audio slides available.
 
-[Link to all slides](https://drive.google.com/drive/u/5/folders/1K8SuoAASApZ3cMQsEk9dJgxbgPB_WHBr)
+[Link to all slides](https://drive.google.com/drive/folders/1K8SuoAASApZ3cMQsEk9dJgxbgPB_WHBr)
 
-[Link to all audio sildes](https://drive.google.com/open?id=1gKA1LixQyXUMaHT-xoUqBRwcSZOFRVwm&usp=drive_fs)
-
-[/et\_pb\_text][/et\_pb\_column][/et\_pb\_row][/et\_pb\_section]
+[Link to all audio slides](https://drive.google.com/open?id=1gKA1LixQyXUMaHT-xoUqBRwcSZOFRVwm&usp=drive_fs)
