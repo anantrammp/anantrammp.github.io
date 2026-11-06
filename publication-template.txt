@@ -1,0 +1,10 @@
+---
+title: "Your paper title"
+collection: publications
+year: 2026
+citation: "Authors. Your paper title. Journal, volume, pages (2026)."
+paperurl: "/files/publications/2026-your-paper.pdf"
+doi: "10.xxxx/your-doi"
+---
+
+Optional abstract or description. Remove this line if not needed.

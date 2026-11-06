@@ -1,0 +1,38 @@
+title: Quantum Devices Lab
+name: M. P. Anantram
+description: The Anantram Research Group at the University of Washington. Quantum
+  transport, molecular electronics, DNA nanotechnology, and nanoscale devices.
+url: https://anantrammp.github.io
+baseurl: ''
+repository: anantrammp/anantrammp.github.io
+email: anantmp@uw.edu
+markdown: kramdown
+kramdown:
+  input: GFM
+include:
+- _pages
+collections:
+  publications:
+    output: true
+    permalink: /publication/:name/
+defaults:
+- scope:
+    path: ''
+    type: publications
+  values:
+    layout: lab
+    page_kind: publication
+plugins:
+- jekyll-sitemap
+exclude:
+- README.md
+- EDITING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- vendor
+- scripts
+- work
+- node_modules
+- MIGRATION.md
+- publication-template.txt

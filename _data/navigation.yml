@@ -1,0 +1,13 @@
+main:
+- title: Research
+  url: /
+- title: Team
+  url: /team/
+- title: Publications
+  url: /publications/
+- title: Book
+  url: /book/
+- title: Join us
+  url: /join/
+- title: Photos
+  url: /photos/

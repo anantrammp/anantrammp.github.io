@@ -1,0 +1,25 @@
+<div class="publication-intro"><p>Browse the research archive or search by title, author, or topic. PDF links open the available full text.</p><a class="text-link" href="https://scholar.google.com/citations?hl=en&amp;user=FqxwbBMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">View Google Scholar ↗</a></div>
+<div class="publication-controls" hidden>
+  <div class="search-field"><label for="publication-search">Search publications</label><input type="search" id="publication-search" placeholder="Title, author, or research topic…" autocomplete="off"></div>
+  <div class="year-field"><label for="publication-year">Year</label><select id="publication-year"><option value="all">All years</option><option value="0">Manuscripts</option>{% assign year_groups = site.publications | group_by: 'year' | sort: 'name' | reverse %}{% for group in year_groups %}{% unless group.name == '0' %}<option value="{{ group.name }}">{{ group.name }}</option>{% endunless %}{% endfor %}</select></div>
+</div>
+<p class="result-count" id="publication-count" aria-live="polite">{{ site.publications.size }} entries</p>
+<div class="publication-archive">
+{% assign year_groups = site.publications | group_by: 'year' | sort: 'name' | reverse %}
+{% for group in year_groups %}
+<section class="publication-year-group" data-year="{{ group.name }}">
+  <h2 class="year-heading">{% if group.name == '0' %}Manuscripts{% else %}{{ group.name }}{% endif %}</h2>
+  <ol class="publication-list">
+  {% assign entries = group.items | sort: 'path' %}
+  {% for pub in entries %}
+    <li class="publication-item" data-year="{{ pub.year }}">
+      <h3><a href="{{ pub.url | relative_url }}">{{ pub.title | escape }}</a></h3>
+      <p class="citation">{{ pub.citation | escape }}</p>
+      <div class="publication-links">{% if pub.paperurl %}<a class="pdf-link" href="{{ pub.paperurl | relative_url }}" aria-label="PDF: {{ pub.title | escape }}">PDF <span aria-hidden="true">↗</span></a>{% endif %}{% if pub.doi %}<a href="https://doi.org/{{ pub.doi | escape }}">DOI ↗</a>{% endif %}<a class="details-link" href="{{ pub.url | relative_url }}">Details →</a></div>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+</div>
+<p class="no-results" hidden>No publications match your search. Try another title, author, or year.</p>
