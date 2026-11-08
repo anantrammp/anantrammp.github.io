@@ -86,6 +86,18 @@ LinkedIn: <https://www.linkedin.com/in/sachal-shaikh>
 
 Galina Petrova is a PhD student who joined in 2025. Her research focuses on charge transport in DNA, with a strong interest in quantum chemistry and molecular orbitals. In her free time, she enjoys solving Sudoku puzzles.​
 
+<figure class="portrait"><a href="/images/8a6aa706-UW-Website-Theme-Update-2.jpg"><img src="/images/8a6aa706-UW-Website-Theme-Update-2.jpg" alt="Simon Cao" width="256" height="256" loading="lazy" decoding="async"></a></figure>
+
+### Simon Cao
+
+Simon Cao is a Ph.D. student in Anant’s group, having joined the group during his Master’s at UW, He currently works on semi-classical leaning problems, and will be moving into more quantum modeling problems for his Ph.D. His work currently includes some DFT calculations on 2D materials.
+
+Email: [purunc@uw.edu](mailto:purunc@uw.edu)
+
+Room: EEB 253D
+
+LinkedIn: [https://www.linkedin.com/in/simoncaouw](https://www.linkedin.com/in/simoncaouw/)
+
 {% if page.show_past_high_school_interns %}
 
 ## Past High School Interns
