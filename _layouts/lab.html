@@ -36,7 +36,7 @@
       <div class="hero-overlay"></div>
       <div class="shell hero-copy"><p class="eyebrow">Theory · Modeling · Discovery</p><h1 id="page-title">Quantum Devices Lab</h1><p class="hero-subtitle">{{ page.subtitle }}</p><div class="hero-actions"><a class="button button-light" href="/publications/">Explore publications <span aria-hidden="true">↗</span></a><a class="hero-link" href="/team/">Meet our team <span aria-hidden="true">→</span></a></div></div>
     </section>
-    {% elsif page.page_kind == 'team' or page.page_kind == 'publications' %}
+    {% elsif page.page_kind == 'team' or page.page_kind == 'publications' or page.page_kind == 'join' %}
     <h1 id="page-title" class="visually-hidden">{{ page.title }}</h1>
     {% else %}
     <div class="shell page-heading"><p class="eyebrow">Anantram Research Group</p><h1 id="page-title">{{ page.title }}</h1>{% if page.page_kind == 'publications' %}<p>Research papers, manuscripts, patents, and scientific software.</p>{% endif %}</div>
