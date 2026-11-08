@@ -5,6 +5,8 @@ permalink: /publications/
 page_kind: publications
 ---
 
+{% include publication-list.html %}
+
 ## Patents
 
 ### Nucleic Acid-based Electrically Readable, Read-only Memory
