@@ -3,6 +3,7 @@ layout: lab
 title: Past Members
 permalink: /team/past-team/
 page_kind: past-team
+show_krishnakant_vishwakarma: false
 show_past_high_school_interns: false
 ---
 
@@ -20,11 +21,15 @@ LinkedIn: <https://www.linkedin.com/in/willlivernois>
 
 GitHub: <https://github.com/wliverno>
 
+{% if page.show_krishnakant_vishwakarma %}
+
 <figure class="portrait"><a href="/images/1dc32026-fc490f0d-c674-4550-abb1-1af68fc84dea.jpg"><img src="/images/1dc32026-fc490f0d-c674-4550-abb1-1af68fc84dea.jpg" alt="Krishnakant Vishwakarma" width="1440" height="1920" loading="lazy" decoding="async"></a></figure>
 
 ### Krishnakant Vishwakarma
 
 Email: [krishnatifr@gmail.com](mailto:krishnatifr@gmail.com)
+
+{% endif %}
 
 ## Past PhD Students
 
@@ -97,6 +102,18 @@ Email: [purunc@uw.edu](mailto:purunc@uw.edu)
 Room: EEB 253D
 
 LinkedIn: [https://www.linkedin.com/in/simoncaouw](https://www.linkedin.com/in/simoncaouw/)
+
+<figure class="portrait"><a href="/images/9c546b66-Dub_2024.jpg"><img src="/images/9c546b66-Dub_2024.jpg" alt="Yiren Wang" width="1280" height="1920" loading="lazy" decoding="async"></a></figure>
+
+### Yiren Wang
+
+Yiren (Ethan) Wang was a 5th year PhD student in the Quantum Devices lab. He received his B.S. and M.S. degrees in Electrical and Computer Engineering from the University of Washington, in 2019 and 2021.
+
+Email: [ethanwyr@uw.edu](mailto:ethanwyr@uw.edu)
+
+LinkedIn: <https://www.linkedin.com/yi-ren-wang>
+
+GitHub: <https://github.com/ethanwyr>
 
 {% if page.show_past_high_school_interns %}
 
