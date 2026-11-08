@@ -14,7 +14,8 @@
   {% for pub in entries %}
     <li class="publication-item" data-year="{{ pub.year }}">
       <h3><a href="{{ pub.url | relative_url }}">{{ pub.title | escape }}</a></h3>
-      <p class="citation">{{ pub.citation | escape }}</p>
+      {% assign citation_details = pub.citation | remove_first: pub.title | remove_first: ', ' %}
+      <p class="citation">{{ citation_details | escape }}</p>
       <div class="publication-links">{% if pub.paperurl %}<a class="pdf-link" href="{{ pub.paperurl | relative_url }}" aria-label="PDF: {{ pub.title | escape }}">PDF <span aria-hidden="true">↗</span></a>{% endif %}{% if pub.doi %}<a href="https://doi.org/{{ pub.doi | escape }}">DOI ↗</a>{% endif %}<a class="details-link" href="{{ pub.url | relative_url }}">Details →</a></div>
     </li>
   {% endfor %}
