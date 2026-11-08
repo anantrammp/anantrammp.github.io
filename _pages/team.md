@@ -126,3 +126,13 @@ Keya A. Joy is a junior double-majoring in Electrical & Computer Engineering, an
 Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
 
 </section>
+
+<section class="team-member" markdown="1">
+
+<figure class="portrait"><a href="/images/thirumaran-deepak.jpeg"><img src="/images/thirumaran-deepak.jpeg" alt="Thirumaran Deepak" width="1570" height="1962" loading="lazy" decoding="async"></a></figure>
+
+### Thirumaran Deepak
+
+Thirumaran Deepak is a computer science student at the University of Washington. He works on machine-learning classification of single-molecule break-junction data and is building an AI pipeline that automates force-field parameterization for metal-mediated DNA. His hobbies include playing basketball and taking nature walks.
+
+</section>
