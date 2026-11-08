@@ -11,5 +11,7 @@
 @media print{.team-member{break-inside:avoid}}
 .publication-item h3{font-size:16px}
 @media(max-width:520px){.publication-item h3{font-size:15px}}
+.publication-intro p{max-width:none;font-size:15px;line-height:1.6;white-space:nowrap}
+@media(max-width:800px){.publication-intro p{white-space:normal}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{.university-bar,.site-header,.hero-actions,.publication-controls,.site-footer{display:none}.hero{min-height:0;background:white;color:black}.hero-photo,.hero-overlay{display:none}.hero-copy{padding:20px 0}.hero-subtitle{color:black}.shell{max-width:none;padding-left:0;padding-right:0}.publication-item,.portrait,.image-gallery{break-inside:avoid}.page-content{padding-bottom:0}}
