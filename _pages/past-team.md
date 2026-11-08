@@ -80,6 +80,12 @@ Email: [sshaik@uw.edu](mailto:sshaik@uw.edu)
 
 LinkedIn: <https://www.linkedin.com/in/sachal-shaikh>
 
+<figure class="portrait"><a href="/images/4d263186-linkedinpic.jpg"><img src="/images/4d263186-linkedinpic.jpg" alt="Galina Petrova" width="540" height="540" loading="lazy" decoding="async"></a></figure>
+
+### Galina Petrova
+
+Galina Petrova is a PhD student who joined in 2025. Her research focuses on charge transport in DNA, with a strong interest in quantum chemistry and molecular orbitals. In her free time, she enjoys solving Sudoku puzzles.​
+
 {% if page.show_past_high_school_interns %}
 
 ## Past High School Interns
