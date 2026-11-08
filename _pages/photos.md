@@ -1,8 +1,8 @@
 ---
-%layout: lab
-%title: Photos
-%permalink: /photos/
-%page_kind: photos
+layout: lab
+title: Photos
+permalink: /photos/
+page_kind: photos
 ---
 
 ## 2026 Taiwan
