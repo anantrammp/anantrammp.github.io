@@ -59,7 +59,11 @@ GitHub: <https://github.com/ethanwyr>
 
 ## Past Undergraduate Researchers (EE499)
 
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/7c795cd0-hyuan.jpg"><img src="/images/7c795cd0-hyuan.jpg" alt="Hailey Yuan" width="643" height="923" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Hailey Yuan
 
@@ -67,7 +71,15 @@ Hailey is a junior majoring in Electrical and Computer Engineering. Her research
 
 Email: hyuan8@uw.edu
 
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/997c8467-IMG_0237.jpg"><img src="/images/997c8467-IMG_0237.jpg" alt="Sara Kumar" width="1439" height="1920" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Sara Kumar
 
@@ -77,7 +89,15 @@ Email: [skumar8@uw.edu](mailto:skumar8@uw.edu)
 
 LinkedIn: <https://www.linkedin.com/in/sara-kumar1/>
 
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/e3c26d66-Photos-and-Bios-request-1.png"><img src="/images/e3c26d66-Photos-and-Bios-request-1.png" alt="Sachal Shaikh" width="1440" height="1920" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Sachal Shaikh
 
@@ -85,13 +105,29 @@ Email: [sshaik@uw.edu](mailto:sshaik@uw.edu)
 
 LinkedIn: <https://www.linkedin.com/in/sachal-shaikh>
 
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/4d263186-linkedinpic.jpg"><img src="/images/4d263186-linkedinpic.jpg" alt="Galina Petrova" width="540" height="540" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Galina Petrova
 
 Galina Petrova is a PhD student who joined in 2025. Her research focuses on charge transport in DNA, with a strong interest in quantum chemistry and molecular orbitals. In her free time, she enjoys solving Sudoku puzzles.​
 
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/8a6aa706-UW-Website-Theme-Update-2.jpg"><img src="/images/8a6aa706-UW-Website-Theme-Update-2.jpg" alt="Simon Cao" width="256" height="256" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Simon Cao
 
@@ -103,7 +139,15 @@ Room: EEB 253D
 
 LinkedIn: [https://www.linkedin.com/in/simoncaouw](https://www.linkedin.com/in/simoncaouw/)
 
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/9c546b66-Dub_2024.jpg"><img src="/images/9c546b66-Dub_2024.jpg" alt="Yiren Wang" width="1280" height="1920" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
 
 ### Yiren Wang
 
@@ -114,6 +158,10 @@ Email: [ethanwyr@uw.edu](mailto:ethanwyr@uw.edu)
 LinkedIn: <https://www.linkedin.com/yi-ren-wang>
 
 GitHub: <https://github.com/ethanwyr>
+
+</div>
+
+</section>
 
 {% if page.show_past_high_school_interns %}
 
