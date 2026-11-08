@@ -61,6 +61,22 @@ GitHub: <https://github.com/ethanwyr>
 
 <section class="team-member past-undergraduate-member" markdown="1">
 
+<figure class="portrait"><a href="/images/81615061-IMG_2022.jpg"><img src="/images/81615061-IMG_2022.jpg" alt="Keya Joy" width="893" height="1195" loading="lazy" decoding="async"></a></figure>
+
+<div class="team-member-copy" markdown="1">
+
+### Keya Joy
+
+Keya A. Joy is a junior double-majoring in Electrical & Computer Engineering, and Mathematics. She is focusing on metal atom intercalation and diffusion through 2D materials. Her hobbies include climbing, creating art in several mediums, and traveling!
+
+Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
+
+</div>
+
+</section>
+
+<section class="team-member past-undergraduate-member" markdown="1">
+
 <figure class="portrait"><a href="/images/7c795cd0-hyuan.jpg"><img src="/images/7c795cd0-hyuan.jpg" alt="Hailey Yuan" width="643" height="923" loading="lazy" decoding="async"></a></figure>
 
 <div class="team-member-copy" markdown="1">

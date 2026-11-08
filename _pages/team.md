@@ -117,18 +117,6 @@ Ting-Cheng Tuan is an M.S. student in Electrical and Computer Engineering at the
 
 <section class="team-member" markdown="1">
 
-<figure class="portrait"><a href="/images/81615061-IMG_2022.jpg"><img src="/images/81615061-IMG_2022.jpg" alt="Keya Joy" width="893" height="1195" loading="lazy" decoding="async"></a></figure>
-
-### Keya Joy
-
-Keya A. Joy is a junior double-majoring in Electrical & Computer Engineering, and Mathematics. She is focusing on metal atom intercalation and diffusion through 2D materials. Her hobbies include climbing, creating art in several mediums, and traveling!
-
-Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
-
-</section>
-
-<section class="team-member" markdown="1">
-
 <figure class="portrait"><a href="/images/thirumaran-deepak.jpeg"><img src="/images/thirumaran-deepak.jpeg" alt="Thirumaran Deepak" width="1570" height="1962" loading="lazy" decoding="async"></a></figure>
 
 ### Thirumaran Deepak
