@@ -25,22 +25,6 @@ LinkedIn: [(Anant) M. P. Anantram - University of Washington, Seattle](https://w
 
 <section class="team-member" markdown="1">
 
-<figure class="portrait"><a href="/images/bfb60556-UW-Website-Theme-Update.jpg"><img src="/images/bfb60556-UW-Website-Theme-Update.jpg" alt="William Livernois" width="1920" height="1446" loading="lazy" decoding="async"></a></figure>
-
-### William Livernois
-
-William Livernois was a 5th year PhD student in the Quantum Devices lab. William’s work includes developing quantum transmission models for biological systems such as cytochromes, investigating spin-dependent transport mechanisms in biological systems, and applying ab-initio modeling to metal-modified DNA structures. Prior to his PhD, William earned dual B.S. degrees in Chemical Engineering and Physics from MIT before working in industry as an R&D engineer for four years. His work focused on optimizing chemical vapor deposition systems for nanomaterials synthesis and developing characterization methods for quality control.
-
-Email: [willll@uw.edu](mailto:willll@uw.edu)
-
-LinkedIn: <https://www.linkedin.com/in/willlivernois>
-
-GitHub: <https://github.com/wliverno>
-
-</section>
-
-<section class="team-member" markdown="1">
-
 <figure class="portrait"><a href="/images/ddb91d8d-IMG_20240110_141045-1.jpg"><img src="/images/ddb91d8d-IMG_20240110_141045-1.jpg" alt="Sandip Mandal" width="1066" height="1266" loading="lazy" decoding="async"></a></figure>
 
 ### Sandip Mandal
