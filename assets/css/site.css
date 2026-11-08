@@ -9,7 +9,7 @@
 .team-member .portrait+h3{margin-top:0;padding-top:0}
 @media(max-width:520px){.team-member .portrait{margin-right:18px}}
 @media print{.team-member{break-inside:avoid}}
-.publication-item h3{font-size:17px}
-@media(max-width:520px){.publication-item h3{font-size:16px}}
+.publication-item h3{font-size:16px}
+@media(max-width:520px){.publication-item h3{font-size:15px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{.university-bar,.site-header,.hero-actions,.publication-controls,.site-footer{display:none}.hero{min-height:0;background:white;color:black}.hero-photo,.hero-overlay{display:none}.hero-copy{padding:20px 0}.hero-subtitle{color:black}.shell{max-width:none;padding-left:0;padding-right:0}.publication-item,.portrait,.image-gallery{break-inside:avoid}.page-content{padding-bottom:0}}
