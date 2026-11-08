@@ -2,7 +2,7 @@
 title: Spin-Dependent Transport in One-Dimensional Mercury- and Silver-Mediated DNA
   Nanowires
 collection: publications
-year: 0
+year: 2026
 citation: Spin-Dependent Transport in One-Dimensional Mercury- and Silver-Mediated
   DNA Nanowires, A. De, W. Livernois, S. Vecchioni, Y. P. Ohayon, and M. P. Anantram,
   arXiv:2610.31508 (2026)
