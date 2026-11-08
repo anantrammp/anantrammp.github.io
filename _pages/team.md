@@ -126,15 +126,3 @@ Keya A. Joy is a junior double-majoring in Electrical & Computer Engineering, an
 Email:  [kjoy@uw.edu](mailto:kjoy@uw.edu)
 
 </section>
-
-<section class="team-member" markdown="1">
-
-<figure class="portrait"><a href="/images/7c795cd0-hyuan.jpg"><img src="/images/7c795cd0-hyuan.jpg" alt="Hailey Yuan" width="643" height="923" loading="lazy" decoding="async"></a></figure>
-
-### Hailey Yuan
-
-Hailey is a junior majoring in Electrical and Computer Engineering. Her research focuses on developing a graph-based framework that identifies dominant charge transport pathways in synthetic biological materials. In her free time, she enjoys eating, baking, and playing volleyball.
-
-Email: hyuan8@uw.edu
-
-</section>
